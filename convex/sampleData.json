@@ -1,0 +1,137 @@
+[
+	{
+		"name": "Taylor Swift | The Eras Tour",
+		"description": "Experience record breaking Eras tour live",
+		"price": 499.99,
+		"totalTickets": 100,
+		"location": "Metlife Stadium, New Jersey",
+		"eventDate": 1723845600000,
+		"userId": "user_1234"
+	},
+	{
+		"name": "Ed Sheeran | Mathematics Tour",
+		"description": "Sing along to your favorites with Ed Sheeran",
+		"price": 399.5,
+		"totalTickets": 200,
+		"location": "Wembley Stadium, London",
+		"eventDate": 1727568000000,
+		"userId": "user_5678"
+	},
+	{
+		"name": "Beyoncé | Renaissance World Tour",
+		"description": "Feel the power of Queen B live in action",
+		"price": 549.0,
+		"totalTickets": 150,
+		"location": "SoFi Stadium, Los Angeles",
+		"eventDate": 1729569600000,
+		"userId": "user_1234"
+	},
+	{
+		"name": "Coldplay | Music of the Spheres",
+		"description": "Dive into a cosmic musical experience",
+		"price": 420.0,
+		"totalTickets": 180,
+		"location": "National Stadium, Singapore",
+		"eventDate": 1730870400000,
+		"userId": "user_7890"
+	},
+	{
+		"name": "Arijit Singh | Live in Concert",
+		"description": "Get ready for a soulful night with Arijit",
+		"price": 199.99,
+		"totalTickets": 250,
+		"location": "NSCI Dome, Mumbai",
+		"eventDate": 1726156800000,
+		"userId": "user_3210"
+	},
+	{
+		"name": "Imagine Dragons | Mercury Tour",
+		"description": "Experience pure energy and rhythm live",
+		"price": 375.0,
+		"totalTickets": 220,
+		"location": "Barclays Center, New York",
+		"eventDate": 1733462400000,
+		"userId": "user_5678"
+	},
+	{
+		"name": "Diljit Dosanjh | Born to Shine Tour",
+		"description": "Punjabi vibes and stadium energy guaranteed",
+		"price": 250.0,
+		"totalTickets": 300,
+		"location": "Rogers Arena, Vancouver",
+		"eventDate": 1727952000000,
+		"userId": "user_3210"
+	},
+	{
+		"name": "Adele | Weekends With Adele",
+		"description": "A night of emotions and powerful vocals",
+		"price": 699.0,
+		"totalTickets": 120,
+		"location": "The Colosseum, Las Vegas",
+		"eventDate": 1729219200000,
+		"userId": "user_1234"
+	},
+	{
+		"name": "The Weeknd | After Hours Til Dawn",
+		"description": "Dark beats and neon nights await",
+		"price": 480.0,
+		"totalTickets": 200,
+		"location": "Accor Stadium, Sydney",
+		"eventDate": 1731916800000,
+		"userId": "user_6789"
+	},
+	{
+		"name": "Post Malone | If Y’all Weren’t Here Tour",
+		"description": "Laid-back grooves and hip-hop energy",
+		"price": 350.0,
+		"totalTickets": 180,
+		"location": "Madison Square Garden, New York",
+		"eventDate": 1732771200000,
+		"userId": "user_2345"
+	},
+	{
+		"name": "BLACKPINK | Born Pink World Tour",
+		"description": "K-pop perfection on a global stage",
+		"price": 525.0,
+		"totalTickets": 160,
+		"location": "Olympic Stadium, Seoul",
+		"eventDate": 1728268800000,
+		"userId": "user_6543"
+	},
+	{
+		"name": "Bruno Mars | 24K Magic Live",
+		"description": "Funk, soul, and stage charisma overload",
+		"price": 470.0,
+		"totalTickets": 140,
+		"location": "O2 Arena, London",
+		"eventDate": 1734067200000,
+		"userId": "user_3210"
+	},
+	{
+		"name": "Shreya Ghoshal | Melody Nights",
+		"description": "An evening of timeless Bollywood hits",
+		"price": 150.0,
+		"totalTickets": 250,
+		"location": "Biswa Bangla Convention Centre, Kolkata",
+		"eventDate": 1730611200000,
+		"userId": "user_1212"
+	},
+	{
+		"name": "Hans Zimmer | Live Orchestra",
+		"description": "Cinema’s greatest scores performed live",
+		"price": 600.0,
+		"totalTickets": 100,
+		"location": "Royal Albert Hall, London",
+		"eventDate": 1729737600000,
+		"userId": "user_2345"
+	},
+	{
+		"name": "Prateek Kuhad | Silhouettes Tour",
+		"description": "Indie magic with poetic storytelling",
+		"price": 180.0,
+		"totalTickets": 200,
+		"location": "Phoenix Marketcity, Pune",
+		"eventDate": 1729372800000,
+		"userId": "user_3456"
+	}
+]
